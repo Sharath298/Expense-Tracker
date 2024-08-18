@@ -84,6 +84,11 @@
       "id": "8e49",
       "email": "",
       "password": ""
+    },
+    {
+      "id": "2123",
+      "email": "sharathakula24@gmail.com",
+      "password": "Cherry298##"
     }
   ],
   "transactions": [
@@ -126,6 +131,22 @@
       "amount": 400,
       "date": "2024-08-12",
       "description": "m"
+    },
+    {
+      "id": "ee6f",
+      "email": "sharathakula24@gmail.com",
+      "type": "income",
+      "amount": 20000,
+      "date": "2024-08-15",
+      "description": "salary"
+    },
+    {
+      "id": "4038",
+      "email": "sharathakula24@gmail.com",
+      "type": "expense",
+      "amount": 3000,
+      "date": "2024-08-17",
+      "description": "dinner"
     }
   ]
 }
